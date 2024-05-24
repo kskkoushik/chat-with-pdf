@@ -1,0 +1,5 @@
+langchain_google_genai
+langchain_core
+langchain_community
+python-dotenv
+PyPDF2
